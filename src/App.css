@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+
+}
+.Tilt{
+	background: linear-gradient(89deg, #FF5EDF 0% , #04c8DE 100%);
+
+}
+.particles{
+	z-index: -1;
+	top:0;
+	bottom: 0;
+	left:0;
+	right:0;
+	position: fixed;
+}
+
+
+ 
